@@ -9,6 +9,13 @@ This repo is based on this [AOC Rust template](https://github.com/fspoettel/adve
 ## 2025 Results
 
 <!--- advent_readme_stars table --->
+## 2016 Results
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2016/day/1) | ⭐ | ⭐ |
+| [Day 2](https://adventofcode.com/2016/day/2) | ⭐ | ⭐ |
+<!--- advent_readme_stars table --->
 
 ## Benchmarks
 
