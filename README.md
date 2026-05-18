@@ -28,6 +28,7 @@ This repo is based on this [AOC Rust template](https://github.com/fspoettel/adve
 | [Day 3](./src/bin/03.rs) | `71.4µs` | `72.1µs` |
 | [Day 4](./src/bin/04.rs) | `353.9µs` | `98.4µs` |
 | [Day 5](./src/bin/05.rs) | `1.3s` | `3.5s` |
+| [Day 6](./src/bin/06.rs) | `29.8µs` | `34.8µs` |
 
-**Total: 4800.69ms**
+**Total: 4800.75ms**
 <!--- benchmarking table --->
