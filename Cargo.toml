@@ -30,3 +30,4 @@ tinyjson = "2.5.1"
 # Solution dependencies
 md5 = {version = "0.8"}
 regex = {version = "*"}
+hex = {version = "*"}
