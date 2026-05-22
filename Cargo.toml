@@ -32,3 +32,4 @@ md5 = {version = "0.8"}
 regex = {version = "*"}
 hex = {version = "*"}
 num-integer = {version = "*"}
+itertools = {version = "*"}
