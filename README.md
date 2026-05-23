@@ -35,6 +35,7 @@ This repo is based on this [AOC Rust template](https://github.com/fspoettel/adve
 | [Day 22](https://adventofcode.com/2016/day/22) | ⭐ | ⭐ |
 | [Day 23](https://adventofcode.com/2016/day/23) | ⭐ | ⭐ |
 | [Day 24](https://adventofcode.com/2016/day/24) | ⭐ | ⭐ |
+| [Day 25](https://adventofcode.com/2016/day/25) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
 
 <!--- benchmarking table --->
